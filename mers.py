@@ -58,10 +58,10 @@ except:
 
 #_______________________________________________________________________________
 
-api_id = 4673221
-api_hash = 'be92819809df8d26225ebbcffbaddd2d'
-bot_token = "5125076924:AAHZDMOzMlpIYfyYS7xCdSWCmAWiDFyJGNQ"
-admin = "c5de99d6d851701eeb4d59d5fd322bceb5c40f2d2979b4331a44e59d0e4a6ce0"
+api_id = #id
+api_hash = '' #haah
+bot_token = "" #bot token
+admin = "" #admin is
 
 bot = TelegramClient("King", api_id, api_hash).start(bot_token=bot_token)
 
